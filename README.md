@@ -159,9 +159,9 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![Alt text](Terminal.png)
+![Terminal](https://github.com/Anbuselvan04/Calc/assets/119410896/09409874-b877-4322-a953-048b3c9494e0)
 
-![Alt text](Output.png)
+![Output](https://github.com/Anbuselvan04/Calc/assets/119410896/d7d289e7-b107-4beb-a040-cd638da7391b)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
