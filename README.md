@@ -119,7 +119,7 @@ Publish the website in the given URL.
             <tr>
                 <td><button onclick="appendToDisplay('0')">0</button></td>
                 <td><button data-operator="%" onclick="appendToDisplay('%')">%</button></td>
-                <td><button data-operator="sqrt" onclick="calculateSquareRoot()">√</button></td>
+                <td><button data-operator="sqrt" onclick="calculateSquareRoot()">&#8730;S</button></td>
                 <td><button data-operator="/" onclick="appendToDisplay('/')" style="color: white;">/</button></td>
             </tr>
             <tr>
@@ -158,9 +158,7 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-
 ![Alt text](Terminal.png)
-
 ![Alt text](image.png)
 
 ## RESULT:
